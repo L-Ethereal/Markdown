@@ -2,7 +2,7 @@
 
 > Markdown 是一种轻量级的标记语言，是目前互联网上最流行的写作语言。
 
-![Markdown Image](G:\Pictures\Saved Pictures\Markdown Image.jpg)
+![Markdown Image](https://github.com/L-Ethereal/Markdown/blob/master/Screenshots/Markdown%20Image.jpg)
 
 
 
